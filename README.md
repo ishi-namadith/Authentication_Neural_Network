@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-2.x-red.svg)](https://keras.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 ## 🚀 Overview
 
@@ -238,7 +237,3 @@ This implementation demonstrates:
 
 ---
 
-<p align="center">
-  <strong>Securing the future with geometric action-based authentication</strong><br>
-  Made with ❤️ using Deep Learning and Motion Analysis
-</p>
