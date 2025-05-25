@@ -187,30 +187,6 @@ L2_REG = 0.01
 - **Batch Normalization**: Applied after dense layers
 - **L1/L2 Regularization**: Weight decay for better generalization
 
-## 🚀 Future Improvements
-
-- [ ] **📱 Real-time Authentication**: Live accelerometer data processing
-- [ ] **👥 Multi-user Scaling**: Support for larger user databases
-- [ ] **🔄 Data Augmentation**: Synthetic data generation techniques
-- [ ] **🏗️ Architecture Exploration**: CNN, LSTM, and Transformer models
-- [ ] **📊 Feature Engineering**: Advanced signal processing techniques
-- [ ] **🌐 Web Interface**: User-friendly authentication portal
-- [ ] **📱 Mobile Integration**: Smartphone app development
-- [ ] **🔒 Security Enhancement**: Adversarial attack resistance
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔬 Research Applications
 
